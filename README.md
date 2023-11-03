@@ -17,3 +17,4 @@ Hi , I'm Zeineb 👋
 😄 Pronouns: Zayyneb
 
 ⚡ Fun fact: I once built a robot using a Raspberry Pi for a school project.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayyneb)](https://github.com/anuraghazra/github-readme-stats)
