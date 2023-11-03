@@ -12,6 +12,5 @@ I'm currently immersed in a diverse array of software projects as part of my pur
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayyneb)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayyneb&show_icons=true&theme=synthwave)
