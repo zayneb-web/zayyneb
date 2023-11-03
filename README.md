@@ -10,3 +10,4 @@ I'm currently immersed in a diverse array of software projects as part of my pur
 
 ![5847ea22cef1014c0b5e4833](https://github.com/zayyneb/zayyneb/assets/123770350/c3c2fe31-ed4f-4326-ab90-50f31f15f95b)
 
+![png-clipart-angularjs-protractor-software-testing-web-development-others-miscellaneous-angle](https://github.com/zayyneb/zayyneb/assets/123770350/9d3eef51-f295-4979-8494-211ac1f45313)
